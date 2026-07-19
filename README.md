@@ -337,11 +337,6 @@ See [LICENSE](LICENSE) for full text.
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/SNAPKITTYWEST/j-matrix-twin?style=social)](https://github.com/SNAPKITTYWEST/j-matrix-twin)
-[![GitHub Forks](https://img.shields.io/github/forks/SNAPKITTYWEST/j-matrix-twin?style=social)](https://github.com/SNAPKITTYWEST/j-matrix-twin/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/SNAPKITTYWEST/j-matrix-twin)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/SNAPKITTYWEST/j-matrix-twin)](https://github.com/SNAPKITTYWEST/j-matrix-twin/discussions)
-
 **Join the conversation!**
 
 [💬 Discussions](https://github.com/SNAPKITTYWEST/j-matrix-twin/discussions) • 
