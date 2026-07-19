@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.wasm
+*.wat
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# J interpreter output
+*.ijx
+*.ijs~
+
+# Test outputs
+test-output/
+coverage/
+
+# Deployment
+.gh-pages/
+
+# Made with Bob

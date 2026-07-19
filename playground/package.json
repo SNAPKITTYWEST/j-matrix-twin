@@ -1,0 +1,40 @@
+{
+  "name": "j-matrix-twin-playground",
+  "version": "1.0.0",
+  "description": "Interactive playground for J Matrix Twin - SUBLEQ Attention Engine",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [
+    "j-language",
+    "subleq",
+    "attention-mechanism",
+    "tacit-programming",
+    "goldilocks-field",
+    "quantum-computing",
+    "array-programming"
+  ],
+  "author": "Jessica (SNAPKITTYWEST) <jessicalw34@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessicalw34/j-matrix-twin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jessicalw34/j-matrix-twin/issues"
+  },
+  "homepage": "https://jessicalw34.github.io/j-matrix-twin"
+}
