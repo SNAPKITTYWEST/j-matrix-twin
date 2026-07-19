@@ -19,11 +19,6 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/main/LICENSE)
-[![Sovereign Source](https://img.shields.io/badge/Sovereign-Source-gold.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/main/LICENSE)
-[![J Language](https://img.shields.io/badge/J-9.5-brightgreen.svg?style=flat-square)](https://www.jsoftware.com)
-[![WebAssembly](https://img.shields.io/badge/WebAssembly-Ready-purple.svg?style=flat-square)](https://webassembly.org)
-[![Nim](https://img.shields.io/badge/Nim-2.0-yellow.svg?style=flat-square)](https://nim-lang.org)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg?style=flat-square)](https://snapkittywest.github.io/j-matrix-twin)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
 
 **SUBLEQ Attention Engine • Tacit Array Programming • Goldilocks Field Arithmetic**
