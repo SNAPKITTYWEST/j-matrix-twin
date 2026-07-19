@@ -18,17 +18,17 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/master/LICENSE)
-[![Sovereign Source](https://img.shields.io/badge/Sovereign-Source-gold.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/master/LICENSE)
-[![J Language](https://img.shields.io/badge/J-9.5-brightgreen.svg)](https://www.jsoftware.com)
-[![WebAssembly](https://img.shields.io/badge/WebAssembly-Ready-purple.svg)](https://webassembly.org)
-[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-Powered-blue.svg)](https://www.assemblyscript.org)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)](https://snapkittywest.github.io/j-matrix-twin)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/main/LICENSE)
+[![Sovereign Source](https://img.shields.io/badge/Sovereign-Source-gold.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/main/LICENSE)
+[![J Language](https://img.shields.io/badge/J-9.5-brightgreen.svg?style=flat-square)](https://www.jsoftware.com)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-Ready-purple.svg?style=flat-square)](https://webassembly.org)
+[![Nim](https://img.shields.io/badge/Nim-2.0-yellow.svg?style=flat-square)](https://nim-lang.org)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg?style=flat-square)](https://snapkittywest.github.io/j-matrix-twin)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
 
 **SUBLEQ Attention Engine • Tacit Array Programming • Goldilocks Field Arithmetic**
 
-[🚀 Live Playground](#) • [📚 Documentation](#documentation) • [🎯 Quick Start](#quick-start) • [💬 Community](#community)
+[🚀 Live Playground](https://snapkittywest.github.io/j-matrix-twin) • [📚 Documentation](#documentation) • [🎯 Quick Start](#quick-start) • [💬 Community](#community)
 
 </div>
 
@@ -71,14 +71,14 @@
 ### One-Line Install
 
 ```bash
-git clone https://github.com/jessicalw34/j-matrix-twin.git && cd j-matrix-twin/playground && npm install && npm start
+git clone https://github.com/SNAPKITTYWEST/j-matrix-twin.git && cd j-matrix-twin/playground && npm install && npm start
 ```
 
 ### Or Step-by-Step
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/jessicalw34/j-matrix-twin.git
+git clone https://github.com/SNAPKITTYWEST/j-matrix-twin.git
 cd j-matrix-twin
 
 # 2. Start playground
@@ -342,15 +342,15 @@ See [LICENSE](LICENSE) for full text.
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/jessicalw34/j-matrix-twin?style=social)](https://github.com/jessicalw34/j-matrix-twin)
-[![GitHub Forks](https://img.shields.io/github/forks/jessicalw34/j-matrix-twin?style=social)](https://github.com/jessicalw34/j-matrix-twin/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/jessicalw34/j-matrix-twin)](https://github.com/jessicalw34/j-matrix-twin/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/jessicalw34/j-matrix-twin)](https://github.com/jessicalw34/j-matrix-twin/discussions)
+[![GitHub Stars](https://img.shields.io/github/stars/SNAPKITTYWEST/j-matrix-twin?style=social)](https://github.com/SNAPKITTYWEST/j-matrix-twin)
+[![GitHub Forks](https://img.shields.io/github/forks/SNAPKITTYWEST/j-matrix-twin?style=social)](https://github.com/SNAPKITTYWEST/j-matrix-twin/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/SNAPKITTYWEST/j-matrix-twin)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SNAPKITTYWEST/j-matrix-twin)](https://github.com/SNAPKITTYWEST/j-matrix-twin/discussions)
 
 **Join the conversation!**
 
-[💬 Discussions](https://github.com/jessicalw34/j-matrix-twin/discussions) • 
-[🐛 Issues](https://github.com/jessicalw34/j-matrix-twin/issues) • 
+[💬 Discussions](https://github.com/SNAPKITTYWEST/j-matrix-twin/discussions) • 
+[🐛 Issues](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues) • 
 [📧 Email](mailto:jessicalw34@gmail.com)
 
 </div>
@@ -430,7 +430,7 @@ See [LICENSE](LICENSE) for full text.
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**[⭐ Star this repo](https://github.com/jessicalw34/j-matrix-twin) • [🚀 Try the playground](#) • [📖 Read the docs](#documentation)**
+**[⭐ Star this repo](https://github.com/SNAPKITTYWEST/j-matrix-twin) • [🚀 Try the playground](https://snapkittywest.github.io/j-matrix-twin) • [📖 Read the docs](#documentation)**
 
 </div>
 
