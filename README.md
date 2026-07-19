@@ -18,12 +18,13 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Sovereign Source](https://img.shields.io/badge/Sovereign-Source-gold.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/master/LICENSE)
+[![Sovereign Source](https://img.shields.io/badge/Sovereign-Source-gold.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/master/LICENSE)
 [![J Language](https://img.shields.io/badge/J-9.5-brightgreen.svg)](https://www.jsoftware.com)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-Ready-purple.svg)](https://webassembly.org)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)](https://pages.github.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-Powered-blue.svg)](https://www.assemblyscript.org)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)](https://snapkittywest.github.io/j-matrix-twin)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
 
 **SUBLEQ Attention Engine • Tacit Array Programming • Goldilocks Field Arithmetic**
 
