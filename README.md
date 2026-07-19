@@ -18,11 +18,12 @@
 
 <div align="center">
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SNAPKITTYWEST/j-matrix-twin/issues)
+
 **SUBLEQ Attention Engine • Tacit Array Programming • Goldilocks Field Arithmetic**
 
-**Apache 2.0 License (Sovereign Source) • AssemblyScript/WASM • J Language 9.5**
-
-[🚀 Live Playground](https://snapkittywest.github.io/j-matrix-twin) • [📚 Documentation](#documentation) • [🎯 Quick Start](#quick-start)
+[🚀 Live Playground](https://snapkittywest.github.io/j-matrix-twin/playground/public/) • [📚 Documentation](#documentation) • [🎯 Quick Start](#quick-start)
 
 </div>
 
